@@ -17,3 +17,9 @@ This course is great for beginners:
 ## Next Steps
 After completing the course, I tried building this app to practice.  
 Next, I plan to build some simple apps to strengthen my skills.
+
+## My First Project: Simple ToDo List
+A simple ToDo List app built with React Native.
+
+
+ [GitHub Repository](https://github.com/devSeyf/simpleTodoListWithReactNative)
